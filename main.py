@@ -235,4 +235,4 @@ async def on_ready():
 # =========================
 # BOT START
 # =========================
-bot.run(TOKEN) und 
+bot.run(TOKEN) 
